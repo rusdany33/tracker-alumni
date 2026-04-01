@@ -8,22 +8,16 @@ Proyek ini merupakan implementasi dari desain sistem pada **Daily Project 2 – 
 
 # 👤 Identitas Mahasiswa
 
-Nama : Hasbi Ash Shiddiqi  
-NIM : 202210370311391  
+Nama : Rusdany Maestro
+NIM : 202210370311406
 Kelas : Rekayasa Kebutuhan B  
 
 ---
 
 # 🌐 Demo Aplikasi
 
-Frontend (Web)  
-https://tracker-alumni.up.railway.app  
-
-Backend API  
-https://alumni-tracker-beprod.up.railway.app  
-
 Repository Github  
-https://github.com/hsdiqi/alumni-tracker
+https://github.com/rusdany33/tracker-alumni.git
 
 ---
 
